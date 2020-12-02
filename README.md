@@ -6,7 +6,7 @@
 
 My name is Sascha Mirow-Stanitzok from the wonderful town called Büdelsdorf near Kiel, Germany. I am a software developer out of passion and love my job.
 
-I'm working for mobilcom-debitel ([@mobilcom-debitel](https://github.com/mobilcom-debitel)) a company of the freenet Group ([@frnde](https://github.com/frnde)) as a cloud devop and I am working on some private projects also.
+I'm working for mobilcom-debitel ([@mobilcom-debitel](https://github.com/mobilcom-debitel)) a company of the freenet Group ([@frnde](https://github.com/frnde)) as a cloud DevOp and I am working on some private projects also.
 
 ## 🔭 I’m currently working on ...
 
@@ -14,7 +14,7 @@ I'm working for mobilcom-debitel ([@mobilcom-debitel](https://github.com/mobilco
 <div><a href="https://freenet-funk.de" target="_blank"><img src="https://devtoday-assets.s3.eu-central-1.amazonaws.com/funk_logo.jpg" alt="freenet FUNK" width="150px"></a>
 <a href="https://freenet-flex.de" target="_blank"><img src="https://devtoday-assets.s3.eu-central-1.amazonaws.com/flex_logo.jpg" alt="freenet FLEX" width="150px"></a></div>
 
-Some revolutionary mobile serice products completely  based on mobile apps.
+Some revolutionary mobile service products completely based on mobile apps.
 
 ---
 
