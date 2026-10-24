@@ -17,11 +17,11 @@ On **[sascha-ms.de](https://sascha-ms.de/)** I write about AI in everyday develo
 **Latest articles**
 
 <!-- BLOG-POST-LIST:START -->
-- [Recurring 1:1 Meetings That Aren’t Status Meetings](https://sascha-ms.de/en/recurring-one-on-ones-not-status-meetings)
-- [UPDATE_ROLLBACK_FAILED: Rescue Stacks with Force Rollback](https://sascha-ms.de/en/cloudformation-update-rollback-failed-force-rollback)
-- [Connecting MCP Servers Securely: Lessons from OpenCode](https://sascha-ms.de/en/secure-mcp-servers-opencode-lessons)
-- [Claude API 2026-10-21: Migrating to the New SDK](https://sascha-ms.de/en/claude-api-2026-10-21-migration-new-sdk)
-- [Claude Code Hooks: Guardrails for Your AI Agent](https://sascha-ms.de/en/claude-code-hooks-guardrails)
+- [Lambda durable functions: workflows without Step Functions](https://sascha-ms.de/en/lambda-durable-functions)
+- [Psychological safety in teams: a guide for team leads](https://sascha-ms.de/en/psychological-safety-team-leads)
+- [Set up Bedrock model fallback with AgentCore Gateway](https://sascha-ms.de/en/bedrock-model-fallback-agentcore-gateway)
+- [SQS Partial Batch Response: Retry Only Failed Messages](https://sascha-ms.de/en/sqs-partial-batch-response)
+- [eMudhra certificates: check Java, Node, Python and Go](https://sascha-ms.de/en/emudhra-certificates-check-java-node-python-go)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [All articles](https://sascha-ms.de/en/blog/) · [Talks](https://sascha-ms.de/en/talks/) · [About me](https://sascha-ms.de/en/about/)
