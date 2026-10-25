@@ -17,11 +17,11 @@ On **[sascha-ms.de](https://sascha-ms.de/)** I write about AI in everyday develo
 **Latest articles**
 
 <!-- BLOG-POST-LIST:START -->
-- [Lambda durable functions: workflows without Step Functions](https://sascha-ms.de/en/lambda-durable-functions)
-- [Psychological safety in teams: a guide for team leads](https://sascha-ms.de/en/psychological-safety-team-leads)
-- [Set up Bedrock model fallback with AgentCore Gateway](https://sascha-ms.de/en/bedrock-model-fallback-agentcore-gateway)
-- [SQS Partial Batch Response: Retry Only Failed Messages](https://sascha-ms.de/en/sqs-partial-batch-response)
-- [eMudhra certificates: check Java, Node, Python and Go](https://sascha-ms.de/en/emudhra-certificates-check-java-node-python-go)
+- [Build an MCP server in TypeScript: step by step with SDK v2](https://sascha-ms.de/en/mcp-server-typescript)
+- [DynamoDB with Lambda and CDK: Build a Guestbook API](https://sascha-ms.de/en/dynamodb-lambda-cdk-guestbook)
+- [Pre-mortem method: a facilitation guide for teams](https://sascha-ms.de/en/pre-mortem-method-guide)
+- [HTTP API with API Gateway and Lambda in CDK](https://sascha-ms.de/en/http-api-gateway-lambda-cdk)
+- [Deploy a Lambda function with CDK and TypeScript](https://sascha-ms.de/en/lambda-function-cdk-typescript)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [All articles](https://sascha-ms.de/en/blog/) · [Talks](https://sascha-ms.de/en/talks/) · [About me](https://sascha-ms.de/en/about/)
