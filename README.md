@@ -17,11 +17,11 @@ On **[sascha-ms.de](https://sascha-ms.de/)** I write about AI in everyday develo
 **Latest articles**
 
 <!-- BLOG-POST-LIST:START -->
-- [Build an MCP server in TypeScript: step by step with SDK v2](https://sascha-ms.de/en/mcp-server-typescript)
-- [DynamoDB with Lambda and CDK: Build a Guestbook API](https://sascha-ms.de/en/dynamodb-lambda-cdk-guestbook)
-- [Pre-mortem method: a facilitation guide for teams](https://sascha-ms.de/en/pre-mortem-method-guide)
-- [HTTP API with API Gateway and Lambda in CDK](https://sascha-ms.de/en/http-api-gateway-lambda-cdk)
-- [Deploy a Lambda function with CDK and TypeScript](https://sascha-ms.de/en/lambda-function-cdk-typescript)
+- [Skip-level meeting: a guide with agenda and questions](https://sascha-ms.de/en/skip-level-meeting-guide)
+- [Migrate to Serverless Framework v4: a step-by-step guide](https://sascha-ms.de/en/migrate-serverless-framework-v4)
+- [Fan-out with SNS and SQS: One Event, Many Consumers](https://sascha-ms.de/en/fan-out-sns-sqs)
+- [Serverless Framework vs CDK vs SST: my pick for 2026](https://sascha-ms.de/en/serverless-framework-vs-cdk-vs-sst)
+- [Serverless &amp; AI in brief: week 43/2026](https://sascha-ms.de/en/serverless-ai-in-brief-week-43-2026)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [All articles](https://sascha-ms.de/en/blog/) · [Talks](https://sascha-ms.de/en/talks/) · [About me](https://sascha-ms.de/en/about/)
