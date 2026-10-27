@@ -17,11 +17,11 @@ On **[sascha-ms.de](https://sascha-ms.de/)** I write about AI in everyday develo
 **Latest articles**
 
 <!-- BLOG-POST-LIST:START -->
+- [Exponential backoff with jitter: retries in TypeScript](https://sascha-ms.de/en/exponential-backoff-jitter-typescript)
+- [Lambda circuit breaker: contain slow third-party APIs](https://sascha-ms.de/en/lambda-circuit-breaker)
+- [Bedrock prompt caching: cut Claude costs with TypeScript](https://sascha-ms.de/en/bedrock-prompt-caching-typescript)
+- [Zod in Lambda: Validation, Types and OpenAPI From One Schema](https://sascha-ms.de/en/zod-lambda-validation-openapi)
 - [Skip-level meeting: a guide with agenda and questions](https://sascha-ms.de/en/skip-level-meeting-guide)
-- [Migrate to Serverless Framework v4: a step-by-step guide](https://sascha-ms.de/en/migrate-serverless-framework-v4)
-- [Fan-out with SNS and SQS: One Event, Many Consumers](https://sascha-ms.de/en/fan-out-sns-sqs)
-- [Serverless Framework vs CDK vs SST: my pick for 2026](https://sascha-ms.de/en/serverless-framework-vs-cdk-vs-sst)
-- [Serverless &amp; AI in brief: week 43/2026](https://sascha-ms.de/en/serverless-ai-in-brief-week-43-2026)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [All articles](https://sascha-ms.de/en/blog/) · [Talks](https://sascha-ms.de/en/talks/) · [About me](https://sascha-ms.de/en/about/)
