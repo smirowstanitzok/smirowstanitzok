@@ -17,11 +17,11 @@ On **[sascha-ms.de](https://sascha-ms.de/)** I write about AI in everyday develo
 **Latest articles**
 
 <!-- BLOG-POST-LIST:START -->
-- [Exponential backoff with jitter: retries in TypeScript](https://sascha-ms.de/en/exponential-backoff-jitter-typescript)
-- [Lambda circuit breaker: contain slow third-party APIs](https://sascha-ms.de/en/lambda-circuit-breaker)
-- [Bedrock prompt caching: cut Claude costs with TypeScript](https://sascha-ms.de/en/bedrock-prompt-caching-typescript)
-- [Zod in Lambda: Validation, Types and OpenAPI From One Schema](https://sascha-ms.de/en/zod-lambda-validation-openapi)
-- [Skip-level meeting: a guide with agenda and questions](https://sascha-ms.de/en/skip-level-meeting-guide)
+- [EventBridge replay: Reprocess events after a bug fix](https://sascha-ms.de/en/eventbridge-replay-archive)
+- [Lambda authorizer for HTTP APIs: validate API keys](https://sascha-ms.de/en/lambda-authorizer-http-api-keys)
+- [npm minimum release age: a cooldown for dependencies](https://sascha-ms.de/en/npm-minimum-release-age)
+- [Leading remote teams: rituals that actually work](https://sascha-ms.de/en/leading-remote-teams-rituals)
+- [Run an MCP Server on Lambda: A TypeScript Guide](https://sascha-ms.de/en/mcp-server-on-lambda)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [All articles](https://sascha-ms.de/en/blog/) · [Talks](https://sascha-ms.de/en/talks/) · [About me](https://sascha-ms.de/en/about/)
