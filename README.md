@@ -17,11 +17,11 @@ On **[sascha-ms.de](https://sascha-ms.de/)** I write about AI in everyday develo
 **Latest articles**
 
 <!-- BLOG-POST-LIST:START -->
-- [EventBridge replay: Reprocess events after a bug fix](https://sascha-ms.de/en/eventbridge-replay-archive)
-- [Lambda authorizer for HTTP APIs: validate API keys](https://sascha-ms.de/en/lambda-authorizer-http-api-keys)
-- [npm minimum release age: a cooldown for dependencies](https://sascha-ms.de/en/npm-minimum-release-age)
-- [Leading remote teams: rituals that actually work](https://sascha-ms.de/en/leading-remote-teams-rituals)
-- [Run an MCP Server on Lambda: A TypeScript Guide](https://sascha-ms.de/en/mcp-server-on-lambda)
+- [Offboarding checklist: when someone leaves the team](https://sascha-ms.de/en/offboarding-checklist)
+- [Identity Center EventBridge: automate offboarding](https://sascha-ms.de/en/identity-center-eventbridge-offboarding)
+- [SOCI lazy loading: start Lambda containers faster](https://sascha-ms.de/en/soci-lazy-loading-lambda)
+- [Monitoring durable functions: telemetry in TypeScript](https://sascha-ms.de/en/monitoring-durable-functions)
+- [AgentCore CLI 1.0: Deploy an AI Agent with TypeScript](https://sascha-ms.de/en/agentcore-cli-ai-agent-typescript)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [All articles](https://sascha-ms.de/en/blog/) · [Talks](https://sascha-ms.de/en/talks/) · [About me](https://sascha-ms.de/en/about/)
