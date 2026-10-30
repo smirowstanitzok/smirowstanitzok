@@ -17,11 +17,11 @@ On **[sascha-ms.de](https://sascha-ms.de/)** I write about AI in everyday develo
 **Latest articles**
 
 <!-- BLOG-POST-LIST:START -->
-- [Offboarding checklist: when someone leaves the team](https://sascha-ms.de/en/offboarding-checklist)
-- [Identity Center EventBridge: automate offboarding](https://sascha-ms.de/en/identity-center-eventbridge-offboarding)
-- [SOCI lazy loading: start Lambda containers faster](https://sascha-ms.de/en/soci-lazy-loading-lambda)
-- [Monitoring durable functions: telemetry in TypeScript](https://sascha-ms.de/en/monitoring-durable-functions)
-- [AgentCore CLI 1.0: Deploy an AI Agent with TypeScript](https://sascha-ms.de/en/agentcore-cli-ai-agent-typescript)
+- [Stay interview: a guide with questions for leaders](https://sascha-ms.de/en/stay-interview-guide-questions)
+- [Step Functions agent tools via AgentCore Gateway](https://sascha-ms.de/en/step-functions-agent-tools-agentcore-gateway)
+- [EventBridge Scheduler time zone: cron at local time](https://sascha-ms.de/en/eventbridge-scheduler-time-zone)
+- [Temporal API in TypeScript: deadlines and time zones](https://sascha-ms.de/en/temporal-api-typescript-deadlines-time-zones)
+- [Node.js 26 LTS: planning the Lambda upgrade](https://sascha-ms.de/en/node-js-26-lts-lambda-upgrade)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [All articles](https://sascha-ms.de/en/blog/) · [Talks](https://sascha-ms.de/en/talks/) · [About me](https://sascha-ms.de/en/about/)
