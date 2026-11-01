@@ -17,11 +17,11 @@ On **[sascha-ms.de](https://sascha-ms.de/)** I write about AI in everyday develo
 **Latest articles**
 
 <!-- BLOG-POST-LIST:START -->
-- [Human in the Loop for AI Agents with Step Functions](https://sascha-ms.de/en/human-loop-ai-agents-step-functions)
-- [Receiving webhooks with Lambda: signatures, duplicates, SQS](https://sascha-ms.de/en/receiving-webhooks-lambda)
-- [Prompt Injection in MCP: Securing Lambda Tools](https://sascha-ms.de/en/prompt-injection-mcp-lambda)
-- [Stay interview: a guide with questions for leaders](https://sascha-ms.de/en/stay-interview-guide-questions)
-- [Step Functions agent tools via AgentCore Gateway](https://sascha-ms.de/en/step-functions-agent-tools-agentcore-gateway)
+- [AppConfig feature flags in Lambda: safe rollouts](https://sascha-ms.de/en/appconfig-feature-flags-lambda)
+- [AI code review: team rules for Copilot approvals](https://sascha-ms.de/en/ai-code-review-team-rules)
+- [Parameter Store in Lambda: loading config the right way](https://sascha-ms.de/en/parameter-store-lambda-configuration)
+- [Async daily standup: when it works and when it doesn’t](https://sascha-ms.de/en/async-daily-standup)
+- [EventBridge Scheduler one-time schedule for every booking](https://sascha-ms.de/en/eventbridge-scheduler-one-time-schedule)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [All articles](https://sascha-ms.de/en/blog/) · [Talks](https://sascha-ms.de/en/talks/) · [About me](https://sascha-ms.de/en/about/)
