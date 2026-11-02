@@ -17,11 +17,11 @@ On **[sascha-ms.de](https://sascha-ms.de/)** I write about AI in everyday develo
 **Latest articles**
 
 <!-- BLOG-POST-LIST:START -->
-- [AppConfig feature flags in Lambda: safe rollouts](https://sascha-ms.de/en/appconfig-feature-flags-lambda)
-- [AI code review: team rules for Copilot approvals](https://sascha-ms.de/en/ai-code-review-team-rules)
-- [Parameter Store in Lambda: loading config the right way](https://sascha-ms.de/en/parameter-store-lambda-configuration)
-- [Async daily standup: when it works and when it doesn’t](https://sascha-ms.de/en/async-daily-standup)
-- [EventBridge Scheduler one-time schedule for every booking](https://sascha-ms.de/en/eventbridge-scheduler-one-time-schedule)
+- [Giving feedback to your manager: a guide for developers](https://sascha-ms.de/en/feedback-to-your-manager)
+- [DynamoDB rate limiting: a token bucket for Lambda](https://sascha-ms.de/en/dynamodb-rate-limiting)
+- [GitHub Agentic Workflows: Issue Triage Step by Step](https://sascha-ms.de/en/github-agentic-workflows-issue-triage)
+- [Serverless &amp; AI in brief: week 44/2026](https://sascha-ms.de/en/serverless-ai-in-brief-week-44-2026)
+- [Path-specific Copilot custom instructions: a guide](https://sascha-ms.de/en/path-specific-copilot-custom-instructions)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [All articles](https://sascha-ms.de/en/blog/) · [Talks](https://sascha-ms.de/en/talks/) · [About me](https://sascha-ms.de/en/about/)
