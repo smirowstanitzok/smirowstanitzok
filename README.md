@@ -17,11 +17,11 @@ On **[sascha-ms.de](https://sascha-ms.de/)** I write about AI in everyday develo
 **Latest articles**
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Run a Retrospective: Phases, Formats, Agenda](https://sascha-ms.de/en/run-retrospective)
-- [Kafka share groups with Lambda: set up queue mode](https://sascha-ms.de/en/kafka-share-groups-lambda)
-- [AGENTS.md setup: one file for Claude, Copilot and Codex](https://sascha-ms.de/en/agents-md-setup)
-- [Giving feedback to your manager: a guide for developers](https://sascha-ms.de/en/feedback-to-your-manager)
-- [DynamoDB rate limiting: a token bucket for Lambda](https://sascha-ms.de/en/dynamodb-rate-limiting)
+- [Validate Environment Variables in Lambda with Zod](https://sascha-ms.de/en/validate-environment-variables-lambda-zod)
+- [Blameless postmortem: process, questions and template](https://sascha-ms.de/en/blameless-postmortem-template)
+- [Lambda Powertools TypeScript: logs, metrics, traces](https://sascha-ms.de/en/lambda-powertools-typescript)
+- [Agent Package Manager: Keep Skills Updated with Dependabot](https://sascha-ms.de/en/agent-package-manager-dependabot)
+- [Reduce Lambda Cold Starts: A TypeScript Guide](https://sascha-ms.de/en/reduce-lambda-cold-starts-typescript)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [All articles](https://sascha-ms.de/en/blog/) · [Talks](https://sascha-ms.de/en/talks/) · [About me](https://sascha-ms.de/en/about/)
