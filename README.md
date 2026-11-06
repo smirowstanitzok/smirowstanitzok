@@ -17,11 +17,11 @@ On **[sascha-ms.de](https://sascha-ms.de/)** I write about AI in everyday develo
 **Latest articles**
 
 <!-- BLOG-POST-LIST:START -->
-- [On-call rotation: how to organize it fairly](https://sascha-ms.de/en/on-call-rotation-small-team)
-- [AWS FIS Lambda: chaos experiments step by step](https://sascha-ms.de/en/aws-fis-lambda-chaos-experiments)
-- [Claude Message Threads API: Agent Loops in TypeScript](https://sascha-ms.de/en/claude-message-threads-api-agent-loops-typescript)
-- [Incident Commander Role: A Guide for Small Teams](https://sascha-ms.de/en/incident-commander-role)
-- [Validate Environment Variables in Lambda with Zod](https://sascha-ms.de/en/validate-environment-variables-lambda-zod)
+- [How to run a game day: a playbook for failure drills](https://sascha-ms.de/en/run-game-day-playbook)
+- [Validate Lambda events with Powertools Parser and Zod](https://sascha-ms.de/en/validate-lambda-events-powertools-parser)
+- [Parameter Store data types: validate values on write](https://sascha-ms.de/en/parameter-store-data-types)
+- [DynamoDB Bulk Put Items: Load S3 Data into Existing Tables](https://sascha-ms.de/en/dynamodb-bulk-put-items)
+- [GitHub Actions OIDC: AWS deploys without access keys](https://sascha-ms.de/en/github-actions-oidc-aws)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [All articles](https://sascha-ms.de/en/blog/) · [Talks](https://sascha-ms.de/en/talks/) · [About me](https://sascha-ms.de/en/about/)
