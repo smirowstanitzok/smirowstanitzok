@@ -17,11 +17,11 @@ On **[sascha-ms.de](https://sascha-ms.de/)** I write about AI in everyday develo
 **Latest articles**
 
 <!-- BLOG-POST-LIST:START -->
+- [AgentCore Web Answer: cited web search for AI agents](https://sascha-ms.de/en/agentcore-web-answer)
+- [Scheduled provisioned concurrency for AWS Lambda](https://sascha-ms.de/en/scheduled-provisioned-concurrency-lambda)
+- [Automation bias: when teams trust AI blindly](https://sascha-ms.de/en/automation-bias-ai-teams)
+- [Serverless Framework GitHub Actions: least-privilege deploys](https://sascha-ms.de/en/serverless-framework-github-actions)
 - [How to run a game day: a playbook for failure drills](https://sascha-ms.de/en/run-game-day-playbook)
-- [Validate Lambda events with Powertools Parser and Zod](https://sascha-ms.de/en/validate-lambda-events-powertools-parser)
-- [Parameter Store data types: validate values on write](https://sascha-ms.de/en/parameter-store-data-types)
-- [DynamoDB Bulk Put Items: Load S3 Data into Existing Tables](https://sascha-ms.de/en/dynamodb-bulk-put-items)
-- [GitHub Actions OIDC: AWS deploys without access keys](https://sascha-ms.de/en/github-actions-oidc-aws)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [All articles](https://sascha-ms.de/en/blog/) · [Talks](https://sascha-ms.de/en/talks/) · [About me](https://sascha-ms.de/en/about/)
