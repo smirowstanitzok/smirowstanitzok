@@ -17,11 +17,11 @@ On **[sascha-ms.de](https://sascha-ms.de/)** I write about AI in everyday develo
 **Latest articles**
 
 <!-- BLOG-POST-LIST:START -->
-- [AgentCore Web Answer: cited web search for AI agents](https://sascha-ms.de/en/agentcore-web-answer)
-- [Scheduled provisioned concurrency for AWS Lambda](https://sascha-ms.de/en/scheduled-provisioned-concurrency-lambda)
-- [Automation bias: when teams trust AI blindly](https://sascha-ms.de/en/automation-bias-ai-teams)
-- [Serverless Framework GitHub Actions: least-privilege deploys](https://sascha-ms.de/en/serverless-framework-github-actions)
-- [How to run a game day: a playbook for failure drills](https://sascha-ms.de/en/run-game-day-playbook)
+- [SnapStart for Python: measure and cut Lambda cold starts](https://sascha-ms.de/en/snapstart-for-python)
+- [Lambda unit tests with Vitest: test TypeScript handlers](https://sascha-ms.de/en/lambda-unit-tests-vitest)
+- [Resolving team conflict: a guide for team leads](https://sascha-ms.de/en/resolving-team-conflict)
+- [SSRF protection for webhooks: call user URLs safely](https://sascha-ms.de/en/ssrf-protection-webhooks)
+- [Claim check pattern: large messages with S3 and SQS](https://sascha-ms.de/en/claim-check-pattern-s3-sqs)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [All articles](https://sascha-ms.de/en/blog/) · [Talks](https://sascha-ms.de/en/talks/) · [About me](https://sascha-ms.de/en/about/)
