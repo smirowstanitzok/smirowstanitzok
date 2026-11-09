@@ -17,11 +17,11 @@ On **[sascha-ms.de](https://sascha-ms.de/)** I write about AI in everyday develo
 **Latest articles**
 
 <!-- BLOG-POST-LIST:START -->
-- [SnapStart for Python: measure and cut Lambda cold starts](https://sascha-ms.de/en/snapstart-for-python)
-- [Lambda unit tests with Vitest: test TypeScript handlers](https://sascha-ms.de/en/lambda-unit-tests-vitest)
-- [Resolving team conflict: a guide for team leads](https://sascha-ms.de/en/resolving-team-conflict)
-- [SSRF protection for webhooks: call user URLs safely](https://sascha-ms.de/en/ssrf-protection-webhooks)
-- [Claim check pattern: large messages with S3 and SQS](https://sascha-ms.de/en/claim-check-pattern-s3-sqs)
+- [Metrics for AI-generated code: measure impact, not people](https://sascha-ms.de/en/metrics-ai-generated-code)
+- [DynamoDB optimistic locking: version numbers with Lambda](https://sascha-ms.de/en/dynamodb-optimistic-locking)
+- [Testing the Serverless Framework with Vitest](https://sascha-ms.de/en/testing-serverless-framework-vitest)
+- [Test CDK stacks: template assertions with Vitest](https://sascha-ms.de/en/test-cdk-stacks-vitest)
+- [Consent decision making: a facilitation guide for teams](https://sascha-ms.de/en/consent-decision-making)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [All articles](https://sascha-ms.de/en/blog/) · [Talks](https://sascha-ms.de/en/talks/) · [About me](https://sascha-ms.de/en/about/)
