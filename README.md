@@ -17,11 +17,11 @@ On **[sascha-ms.de](https://sascha-ms.de/)** I write about AI in everyday develo
 **Latest articles**
 
 <!-- BLOG-POST-LIST:START -->
-- [Metrics for AI-generated code: measure impact, not people](https://sascha-ms.de/en/metrics-ai-generated-code)
-- [DynamoDB optimistic locking: version numbers with Lambda](https://sascha-ms.de/en/dynamodb-optimistic-locking)
-- [Testing the Serverless Framework with Vitest](https://sascha-ms.de/en/testing-serverless-framework-vitest)
-- [Test CDK stacks: template assertions with Vitest](https://sascha-ms.de/en/test-cdk-stacks-vitest)
-- [Consent decision making: a facilitation guide for teams](https://sascha-ms.de/en/consent-decision-making)
+- [Secrets in GitHub Actions logs: find and prevent leaks](https://sascha-ms.de/en/secrets-github-actions-logs)
+- [Monte Carlo forecasting: delivery dates without story points](https://sascha-ms.de/en/monte-carlo-forecasting-delivery-dates)
+- [Setting WIP limits: a guide for Kanban teams](https://sascha-ms.de/en/setting-wip-limits)
+- [uv for AWS Lambda: Packaging Python Dependencies](https://sascha-ms.de/en/uv-aws-lambda-python-dependencies)
+- [Claude Fable 5.2 migration for TypeScript backends](https://sascha-ms.de/en/claude-fable-5-2-migration-typescript)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [All articles](https://sascha-ms.de/en/blog/) · [Talks](https://sascha-ms.de/en/talks/) · [About me](https://sascha-ms.de/en/about/)
