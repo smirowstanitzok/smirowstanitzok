@@ -17,11 +17,11 @@ On **[sascha-ms.de](https://sascha-ms.de/)** I write about AI in everyday develo
 **Latest articles**
 
 <!-- BLOG-POST-LIST:START -->
+- [TypeScript 7 Migration: Lambda and CDK Projects](https://sascha-ms.de/en/typescript-7-migration-lambda-cdk)
+- [AgentCore Web Search API: web search without a gateway](https://sascha-ms.de/en/agentcore-web-search-api)
+- [SQS dead-letter queue: alarm, triage and redrive](https://sascha-ms.de/en/sqs-dead-letter-queue-redrive)
+- [Team Working Agreements: Template and Workshop](https://sascha-ms.de/en/team-working-agreements-template)
 - [Secrets in GitHub Actions logs: find and prevent leaks](https://sascha-ms.de/en/secrets-github-actions-logs)
-- [Monte Carlo forecasting: delivery dates without story points](https://sascha-ms.de/en/monte-carlo-forecasting-delivery-dates)
-- [Setting WIP limits: a guide for Kanban teams](https://sascha-ms.de/en/setting-wip-limits)
-- [uv for AWS Lambda: Packaging Python Dependencies](https://sascha-ms.de/en/uv-aws-lambda-python-dependencies)
-- [Claude Fable 5.2 migration for TypeScript backends](https://sascha-ms.de/en/claude-fable-5-2-migration-typescript)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [All articles](https://sascha-ms.de/en/blog/) · [Talks](https://sascha-ms.de/en/talks/) · [About me](https://sascha-ms.de/en/about/)
