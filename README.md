@@ -17,11 +17,11 @@ On **[sascha-ms.de](https://sascha-ms.de/)** I write about AI in everyday develo
 **Latest articles**
 
 <!-- BLOG-POST-LIST:START -->
-- [TypeScript 7 Migration: Lambda and CDK Projects](https://sascha-ms.de/en/typescript-7-migration-lambda-cdk)
-- [AgentCore Web Search API: web search without a gateway](https://sascha-ms.de/en/agentcore-web-search-api)
-- [SQS dead-letter queue: alarm, triage and redrive](https://sascha-ms.de/en/sqs-dead-letter-queue-redrive)
-- [Team Working Agreements: Template and Workshop](https://sascha-ms.de/en/team-working-agreements-template)
-- [Secrets in GitHub Actions logs: find and prevent leaks](https://sascha-ms.de/en/secrets-github-actions-logs)
+- [CloudFront Signed URLs: Private Downloads with Lambda](https://sascha-ms.de/en/cloudfront-signed-urls-lambda)
+- [S3 multipart upload with presigned URLs and AWS CDK](https://sascha-ms.de/en/s3-multipart-upload-presigned-urls-cdk)
+- [S3 presigned URL: secure file uploads with Lambda](https://sascha-ms.de/en/s3-presigned-url-upload-lambda)
+- [Lambda MicroVMs: run AI code safely in a sandbox](https://sascha-ms.de/en/lambda-microvms-ai-sandbox)
+- [Manager README: Template, Examples and Honest Limits](https://sascha-ms.de/en/manager-readme-template)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [All articles](https://sascha-ms.de/en/blog/) · [Talks](https://sascha-ms.de/en/talks/) · [About me](https://sascha-ms.de/en/about/)
