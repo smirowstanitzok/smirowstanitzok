@@ -17,11 +17,11 @@ On **[sascha-ms.de](https://sascha-ms.de/)** I write about AI in everyday develo
 **Latest articles**
 
 <!-- BLOG-POST-LIST:START -->
-- [CloudFront Signed URLs: Private Downloads with Lambda](https://sascha-ms.de/en/cloudfront-signed-urls-lambda)
-- [S3 multipart upload with presigned URLs and AWS CDK](https://sascha-ms.de/en/s3-multipart-upload-presigned-urls-cdk)
-- [S3 presigned URL: secure file uploads with Lambda](https://sascha-ms.de/en/s3-presigned-url-upload-lambda)
-- [Lambda MicroVMs: run AI code safely in a sandbox](https://sascha-ms.de/en/lambda-microvms-ai-sandbox)
-- [Manager README: Template, Examples and Honest Limits](https://sascha-ms.de/en/manager-readme-template)
+- [Migrate Jest to Vitest: move TypeScript tests](https://sascha-ms.de/en/migrate-jest-to-vitest)
+- [AgentCore Runtime V2: avoid snapshot pitfalls](https://sascha-ms.de/en/agentcore-runtime-v2-snapshot-pitfalls)
+- [Prepare for Your Performance Review: A Developer Guide](https://sascha-ms.de/en/prepare-performance-review)
+- [Cognito token exchange: let AI agents act safely](https://sascha-ms.de/en/cognito-token-exchange-ai-agents)
+- [How to Prepare an Annual Review: Guide for Managers](https://sascha-ms.de/en/prepare-annual-review)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [All articles](https://sascha-ms.de/en/blog/) · [Talks](https://sascha-ms.de/en/talks/) · [About me](https://sascha-ms.de/en/about/)
