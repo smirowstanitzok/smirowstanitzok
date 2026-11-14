@@ -17,11 +17,11 @@ On **[sascha-ms.de](https://sascha-ms.de/)** I write about AI in everyday develo
 **Latest articles**
 
 <!-- BLOG-POST-LIST:START -->
-- [Migrate Jest to Vitest: move TypeScript tests](https://sascha-ms.de/en/migrate-jest-to-vitest)
-- [AgentCore Runtime V2: avoid snapshot pitfalls](https://sascha-ms.de/en/agentcore-runtime-v2-snapshot-pitfalls)
-- [Prepare for Your Performance Review: A Developer Guide](https://sascha-ms.de/en/prepare-performance-review)
-- [Cognito token exchange: let AI agents act safely](https://sascha-ms.de/en/cognito-token-exchange-ai-agents)
-- [How to Prepare an Annual Review: Guide for Managers](https://sascha-ms.de/en/prepare-annual-review)
+- [Route 53 Record Set Protection: Lock Critical DNS Records](https://sascha-ms.de/en/route-53-record-set-protection)
+- [Secrets Manager Cross-Account Replication: Setup Guide](https://sascha-ms.de/en/secrets-manager-cross-account-replication)
+- [Bus factor: how to break up knowledge silos in teams](https://sascha-ms.de/en/bus-factor-knowledge-silos)
+- [Step Functions timeout: getting heartbeats right](https://sascha-ms.de/en/step-functions-timeout-heartbeats)
+- [Lambda timeout budget: from API Gateway to SDK](https://sascha-ms.de/en/lambda-timeout-budget)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [All articles](https://sascha-ms.de/en/blog/) · [Talks](https://sascha-ms.de/en/talks/) · [About me](https://sascha-ms.de/en/about/)
