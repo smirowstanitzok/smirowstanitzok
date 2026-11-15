@@ -17,11 +17,11 @@ On **[sascha-ms.de](https://sascha-ms.de/)** I write about AI in everyday develo
 **Latest articles**
 
 <!-- BLOG-POST-LIST:START -->
-- [Route 53 Record Set Protection: Lock Critical DNS Records](https://sascha-ms.de/en/route-53-record-set-protection)
-- [Secrets Manager Cross-Account Replication: Setup Guide](https://sascha-ms.de/en/secrets-manager-cross-account-replication)
-- [Bus factor: how to break up knowledge silos in teams](https://sascha-ms.de/en/bus-factor-knowledge-silos)
-- [Step Functions timeout: getting heartbeats right](https://sascha-ms.de/en/step-functions-timeout-heartbeats)
-- [Lambda timeout budget: from API Gateway to SDK](https://sascha-ms.de/en/lambda-timeout-budget)
+- [Middy middleware for AWS Lambda in TypeScript](https://sascha-ms.de/en/middy-middleware-lambda-typescript)
+- [Reduce meetings: a meeting audit for dev teams](https://sascha-ms.de/en/reduce-meetings-audit)
+- [Pair programming with AI: roles for humans and assistants](https://sascha-ms.de/en/pair-programming-ai)
+- [Step Functions Activity vs. Callback: When to Poll](https://sascha-ms.de/en/step-functions-activity-worker)
+- [Prevent a cache stampede: Lambda, Valkey and Bedrock](https://sascha-ms.de/en/cache-stampede-lambda-valkey)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [All articles](https://sascha-ms.de/en/blog/) · [Talks](https://sascha-ms.de/en/talks/) · [About me](https://sascha-ms.de/en/about/)
