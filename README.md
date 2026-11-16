@@ -17,11 +17,11 @@ On **[sascha-ms.de](https://sascha-ms.de/)** I write about AI in everyday develo
 **Latest articles**
 
 <!-- BLOG-POST-LIST:START -->
-- [Middy middleware for AWS Lambda in TypeScript](https://sascha-ms.de/en/middy-middleware-lambda-typescript)
-- [Reduce meetings: a meeting audit for dev teams](https://sascha-ms.de/en/reduce-meetings-audit)
-- [Pair programming with AI: roles for humans and assistants](https://sascha-ms.de/en/pair-programming-ai)
-- [Step Functions Activity vs. Callback: When to Poll](https://sascha-ms.de/en/step-functions-activity-worker)
-- [Prevent a cache stampede: Lambda, Valkey and Bedrock](https://sascha-ms.de/en/cache-stampede-lambda-valkey)
+- [SQS fair queues: tame noisy neighbors in Lambda](https://sascha-ms.de/en/sqs-fair-queues-lambda)
+- [Server-Sent Events with Lambda for AI Chats](https://sascha-ms.de/en/server-sent-events-lambda-ai-chat)
+- [Bulkhead pattern with Lambda: isolate third-party systems](https://sascha-ms.de/en/bulkhead-pattern-lambda)
+- [AWS CDK CLI commands: every command explained](https://sascha-ms.de/en/cdk-cli-commands)
+- [Team focus time: rules for chat, requests and on-call](https://sascha-ms.de/en/team-focus-time)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [All articles](https://sascha-ms.de/en/blog/) · [Talks](https://sascha-ms.de/en/talks/) · [About me](https://sascha-ms.de/en/about/)
