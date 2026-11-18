@@ -17,11 +17,11 @@ On **[sascha-ms.de](https://sascha-ms.de/)** I write about AI in everyday develo
 **Latest articles**
 
 <!-- BLOG-POST-LIST:START -->
-- [Service level expectation: derive it from cycle time](https://sascha-ms.de/en/service-level-expectation)
-- [S3 Vectors hybrid search: RAG with Lambda and TypeScript](https://sascha-ms.de/en/s3-vectors-hybrid-search)
-- [Spec-driven development with AI: Spec Kit in practice](https://sascha-ms.de/en/spec-driven-development-ai)
-- [Secure Bedrock API keys: SCP, CloudTrail and alerts](https://sascha-ms.de/en/secure-bedrock-api-keys)
-- [Protecting AI API keys: lessons from ARTEX](https://sascha-ms.de/en/protecting-ai-api-keys)
+- [How to pause durable functions in AWS Lambda](https://sascha-ms.de/en/pause-durable-functions)
+- [Kinesis Data Streams queues: workers without shard leases](https://sascha-ms.de/en/kinesis-data-streams-queues)
+- [Lambda multi-concurrency: safe Node.js handlers on LMI](https://sascha-ms.de/en/lambda-multi-concurrency-nodejs)
+- [Bedrock batch inference: AI jobs overnight at half price](https://sascha-ms.de/en/bedrock-batch-inference-lambda)
+- [Asynchronous team communication: message templates](https://sascha-ms.de/en/asynchronous-team-communication)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [All articles](https://sascha-ms.de/en/blog/) · [Talks](https://sascha-ms.de/en/talks/) · [About me](https://sascha-ms.de/en/about/)
