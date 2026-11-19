@@ -17,11 +17,11 @@ On **[sascha-ms.de](https://sascha-ms.de/)** I write about AI in everyday develo
 **Latest articles**
 
 <!-- BLOG-POST-LIST:START -->
-- [How to pause durable functions in AWS Lambda](https://sascha-ms.de/en/pause-durable-functions)
-- [Kinesis Data Streams queues: workers without shard leases](https://sascha-ms.de/en/kinesis-data-streams-queues)
-- [Lambda multi-concurrency: safe Node.js handlers on LMI](https://sascha-ms.de/en/lambda-multi-concurrency-nodejs)
-- [Bedrock batch inference: AI jobs overnight at half price](https://sascha-ms.de/en/bedrock-batch-inference-lambda)
-- [Asynchronous team communication: message templates](https://sascha-ms.de/en/asynchronous-team-communication)
+- [Lambda customer-managed runtimes: one runtime for all](https://sascha-ms.de/en/lambda-customer-managed-runtimes)
+- [Node.js Type Stripping: Run TypeScript Without a Build](https://sascha-ms.de/en/node-js-type-stripping-typescript)
+- [AWS MCP Server: Connect AI Agents to AWS Safely](https://sascha-ms.de/en/aws-mcp-server-ai-agents-guardrails)
+- [Debug AccessDenied errors with IAM Access Troubleshooter](https://sascha-ms.de/en/debug-accessdenied-errors-iam-access-troubleshooter)
+- [AgentCore Memory Session Summaries for AI Agents](https://sascha-ms.de/en/agentcore-memory-session-summaries)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [All articles](https://sascha-ms.de/en/blog/) · [Talks](https://sascha-ms.de/en/talks/) · [About me](https://sascha-ms.de/en/about/)
