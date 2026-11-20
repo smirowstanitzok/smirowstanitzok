@@ -17,11 +17,11 @@ On **[sascha-ms.de](https://sascha-ms.de/)** I write about AI in everyday develo
 **Latest articles**
 
 <!-- BLOG-POST-LIST:START -->
-- [Lambda customer-managed runtimes: one runtime for all](https://sascha-ms.de/en/lambda-customer-managed-runtimes)
-- [Node.js Type Stripping: Run TypeScript Without a Build](https://sascha-ms.de/en/node-js-type-stripping-typescript)
-- [AWS MCP Server: Connect AI Agents to AWS Safely](https://sascha-ms.de/en/aws-mcp-server-ai-agents-guardrails)
-- [Debug AccessDenied errors with IAM Access Troubleshooter](https://sascha-ms.de/en/debug-accessdenied-errors-iam-access-troubleshooter)
-- [AgentCore Memory Session Summaries for AI Agents](https://sascha-ms.de/en/agentcore-memory-session-summaries)
+- [Status report template: updates management reads](https://sascha-ms.de/en/status-report-template)
+- [Secure an MCP server with Cognito: CIMD instead of DCR](https://sascha-ms.de/en/mcp-server-cognito-cimd)
+- [Lambda 30 minute timeout: what to check now](https://sascha-ms.de/en/lambda-30-minute-timeout)
+- [Node.js test runner: test Lambda handlers without Jest](https://sascha-ms.de/en/node-js-test-runner-lambda)
+- [From peer to manager: the first conversation](https://sascha-ms.de/en/peer-to-manager-first-conversation)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [All articles](https://sascha-ms.de/en/blog/) · [Talks](https://sascha-ms.de/en/talks/) · [About me](https://sascha-ms.de/en/about/)
