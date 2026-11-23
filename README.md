@@ -17,11 +17,11 @@ On **[sascha-ms.de](https://sascha-ms.de/)** I write about AI in everyday develo
 **Latest articles**
 
 <!-- BLOG-POST-LIST:START -->
-- [WebSocket API with Lambda: a live ticker step by step](https://sascha-ms.de/en/websocket-api-lambda-live-ticker)
-- [Team vision statement: template and 90-minute workshop](https://sascha-ms.de/en/team-vision-statement)
-- [EventBridge custom event bus: retention, FIFO, replay](https://sascha-ms.de/en/eventbridge-custom-event-bus)
-- [CloudFront Functions fetch: check AI agents at the edge](https://sascha-ms.de/en/cloudfront-functions-fetch)
-- [Bedrock Guardrails with Lambda: filter PII and prompt attacks](https://sascha-ms.de/en/bedrock-guardrails-lambda)
+- [IAM role per function in the Serverless Framework](https://sascha-ms.de/en/iam-role-per-function)
+- [Saying no as a manager: a guide with phrases](https://sascha-ms.de/en/saying-no-as-a-manager)
+- [AppSync Events vs. SSE vs. WebSocket for AI agents](https://sascha-ms.de/en/appsync-events-sse-websocket-ai-agents)
+- [Rotate a webhook secret without downtime](https://sascha-ms.de/en/rotate-webhook-secret)
+- [Serverless &amp; AI in brief: week 47/2026](https://sascha-ms.de/en/serverless-ai-in-brief-week-47-2026)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [All articles](https://sascha-ms.de/en/blog/) · [Talks](https://sascha-ms.de/en/talks/) · [About me](https://sascha-ms.de/en/about/)
