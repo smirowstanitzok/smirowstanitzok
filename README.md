@@ -17,11 +17,11 @@ On **[sascha-ms.de](https://sascha-ms.de/)** I write about AI in everyday develo
 **Latest articles**
 
 <!-- BLOG-POST-LIST:START -->
-- [How to facilitate meetings: guide and agenda template](https://sascha-ms.de/en/facilitate-meetings)
-- [AWS API Portal: Find and Secure Shadow APIs](https://sascha-ms.de/en/aws-api-portal-shadow-apis)
-- [AWS WAF AI Security: Protect MCP Servers with Guardrails](https://sascha-ms.de/en/aws-waf-ai-security-mcp-servers)
-- [Lambda function state events: deployments without polling](https://sascha-ms.de/en/lambda-function-state-events)
-- [AWS GetScopedCredentials: Least Privilege for AI Agents](https://sascha-ms.de/en/aws-getscopedcredentials-ai-agents)
+- [EventBridge webhook events: webhooks without your own API](https://sascha-ms.de/en/eventbridge-webhook-events)
+- [TypeScript error handling: Result types, not throw](https://sascha-ms.de/en/typescript-error-handling-result-type)
+- [Address performance issues: a guide for managers](https://sascha-ms.de/en/address-performance-issues)
+- [DynamoDB Vector Search: Semantic Search with Lambda](https://sascha-ms.de/en/dynamodb-vector-search-lambda)
+- [Durable Functions MicroVMs: test AI code safely](https://sascha-ms.de/en/durable-functions-microvms)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [All articles](https://sascha-ms.de/en/blog/) · [Talks](https://sascha-ms.de/en/talks/) · [About me](https://sascha-ms.de/en/about/)
