@@ -17,11 +17,11 @@ On **[sascha-ms.de](https://sascha-ms.de/)** I write about AI in everyday develo
 **Latest articles**
 
 <!-- BLOG-POST-LIST:START -->
-- [EventBridge webhook events: webhooks without your own API](https://sascha-ms.de/en/eventbridge-webhook-events)
-- [TypeScript error handling: Result types, not throw](https://sascha-ms.de/en/typescript-error-handling-result-type)
-- [Address performance issues: a guide for managers](https://sascha-ms.de/en/address-performance-issues)
-- [DynamoDB Vector Search: Semantic Search with Lambda](https://sascha-ms.de/en/dynamodb-vector-search-lambda)
-- [Durable Functions MicroVMs: test AI code safely](https://sascha-ms.de/en/durable-functions-microvms)
+- [Problem Details for HTTP APIs: RFC 9457 with Lambda](https://sascha-ms.de/en/problem-details-http-apis-rfc-9457-lambda)
+- [LLM as a judge: calibrate your grader with TypeScript](https://sascha-ms.de/en/llm-as-a-judge-calibration)
+- [Year-End Retrospective: Agenda, Timings, Template](https://sascha-ms.de/en/year-end-retrospective-agenda)
+- [Lambda Power Tuning: Find the Right Memory Size](https://sascha-ms.de/en/lambda-power-tuning)
+- [Reduce Serverless Costs: A Cost Review in 6 Steps](https://sascha-ms.de/en/reduce-serverless-costs)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [All articles](https://sascha-ms.de/en/blog/) · [Talks](https://sascha-ms.de/en/talks/) · [About me](https://sascha-ms.de/en/about/)
