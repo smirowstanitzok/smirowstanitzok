@@ -17,11 +17,11 @@ On **[sascha-ms.de](https://sascha-ms.de/)** I write about AI in everyday develo
 **Latest articles**
 
 <!-- BLOG-POST-LIST:START -->
-- [Problem Details for HTTP APIs: RFC 9457 with Lambda](https://sascha-ms.de/en/problem-details-http-apis-rfc-9457-lambda)
-- [LLM as a judge: calibrate your grader with TypeScript](https://sascha-ms.de/en/llm-as-a-judge-calibration)
-- [Year-End Retrospective: Agenda, Timings, Template](https://sascha-ms.de/en/year-end-retrospective-agenda)
-- [Lambda Power Tuning: Find the Right Memory Size](https://sascha-ms.de/en/lambda-power-tuning)
-- [Reduce Serverless Costs: A Cost Review in 6 Steps](https://sascha-ms.de/en/reduce-serverless-costs)
+- [Lambda canary deployments with CDK and alarm rollback](https://sascha-ms.de/en/lambda-canary-deployments-cdk)
+- [DynamoDB pagination: build a cursor API with Lambda](https://sascha-ms.de/en/dynamodb-pagination-cursor-api-lambda)
+- [Pairwise LLM judge: detect and measure position bias](https://sascha-ms.de/en/pairwise-llm-judge-position-bias)
+- [Holiday cover for dev teams: handover template](https://sascha-ms.de/en/organize-holiday-cover-dev-team)
+- [Year-end change freeze: checklist and CI gate](https://sascha-ms.de/en/year-end-change-freeze-checklist-ci-gate)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [All articles](https://sascha-ms.de/en/blog/) · [Talks](https://sascha-ms.de/en/talks/) · [About me](https://sascha-ms.de/en/about/)
